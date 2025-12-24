@@ -57,7 +57,7 @@ along the way i’ve learned a lot through conversations with people who were ki
 
 i’d also like to acknowledge [Akshaya](https://www.linkedin.com/in/akshaya-thummalapally-764aa5308/) and [Dinesh](https://www.linkedin.com/in/dineshacc/), with whom i drafted ideas around business and consulting small businesses, even if it didn’t work out the way we initally expected.
 
-finally, i appreciate [Dr. G. Sumanth Kumar](https://www.linkedin.com/in/dr-g-sumanth-kumar-78a592236/), the former dean of my campus, for being open to my the student community intiatives and the discussions early on.
+finally, i appreciate [Dr. G. Sumanth Kumar](https://www.linkedin.com/in/dr-g-sumanth-kumar-78a592236/), the former dean of my campus, for being open to the student community intiatives and the discussions early on.
 
 ---
 
