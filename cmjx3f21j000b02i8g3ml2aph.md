@@ -2,7 +2,7 @@
 title: "learning in public"
 datePublished: Tue Dec 23 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmjx3f21j000b02i8g3ml2aph
-slug: learning-in-public
+slug: 1
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/T0ExEJ5bm_I/upload/a23af752da0c7d6b5bb4390be4c245e1.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767371264246/c3140b54-28a0-4aa3-8d46-3816a7a4ce18.jpeg
 
