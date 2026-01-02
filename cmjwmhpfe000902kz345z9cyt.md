@@ -1,0 +1,36 @@
+---
+title: "28 dec '25"
+datePublished: Sat Dec 27 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
+cuid: cmjwmhpfe000902kz345z9cyt
+slug: 28-dec-25
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767342708032/749290bc-34db-4723-861e-964818e53776.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767343161912/bde40762-7caa-4eee-b38d-11d5f7297093.jpeg
+tags: weekly-notes
+
+---
+
+a large part of my learning this week came from a long microsoft fabric tutorial by [ansh lamba](https://www.youtube.com/@AnshLambaJSR), nearly 9 hours in total.
+
+i also activated a microsoft fabric trial, which comes with a $100 credit for 60 days. that finally let me use fabric instead of just watching tutorials
+
+luckily i have an extra monitor so i just set up tutorial on one side, fabric open on the other, and follow the instructor.
+
+there were some hiccups. the tutorial was recorded a year ago when fabric was still in preview. now that it’s fully rolled out, few things have changed, which slowed me down with getting familiar.
+
+while studying lakehouses and warehouses, i got some clarity on what actually seperates data engineers from other data roles. that alone cleared some confusion i was having.
+
+this week didnt produce much output. but i didnt want to break the habit of documenting just because progress wasnt presentable.
+
+the chart below is a google trends comparision of search interest for “data analyst” vs “data engineer”.
+
+%[https://datawrapper.dwcdn.net/d2B43/3/] 
+
+it gave me a rough idea of how data landscape has shifted over a span of two decades.
+
+i also experimented with Datawrapper to create the embedded visualization you see above.
+
+i had to compare the search terms and pull the data from [Google Trends](https://trends.google.com/), and loaded it onto [Datawrapper](https://www.datawrapper.de/) and applied some tweaks and embedded it in here.
+
+---
+
+i was hesitant to write today because i didnt have anything polished to show but i just want to be consistent with the commitment i made to document my learnings.
