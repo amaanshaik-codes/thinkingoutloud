@@ -4,6 +4,7 @@ datePublished: Tue Dec 30 2025 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmjxrco7p000c02kz3nrr7rq3
 slug: 3
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1767411234703/20458e53-3a76-431a-a1b6-b0aaac237a86.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1767412361959/5d58017d-4024-4bbf-8f10-8354382531dd.png
 
 ---
 
