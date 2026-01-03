@@ -19,7 +19,7 @@ they princpal heard me out. nothing changed, but atleast i tried.
 
 ### the good boy’s kitchen
 
-i came across an internship opening at a hyderabad based dot food startup called [The Good Boy Kitchen](https://goodboy.kitchen/)
+i came across an internship opening at a hyderabad based dog food startup called [The Good Boy Kitchen](https://goodboy.kitchen/)
 
 i wanted that role badly. so instead of just submitting a resume, i went out and did some [field research](https://1drv.ms/p/c/655497a96de9266f/IQD2D4DHK3axR6S_QRgqK4kQAUow8pwb3IvAZPibcSeyYn8?e=yetdAs).
 
